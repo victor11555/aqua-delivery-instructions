@@ -1,8 +1,14 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-pop-up%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B2%D0%BE%D0%B9-%D1%81%D0%B0%D0%B9%D1%82
+title: "Установка Pop-up’а на свой сайт"
+area: site-widgets
+tags:
+  - "сайт-и-виджеты"
+  - "установка-pop-upа-на-свой-сайт"
+source: "https://howto.aqua-delivery.com/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-pop-up%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B2%D0%BE%D0%B9-%D1%81%D0%B0%D0%B9%D1%82"
 ---
-
 # Установка Pop-up’а на свой сайт — База знаний Aqua Delivery
+
+## Кратко
 
 #### Запрос Pop-up’а
 

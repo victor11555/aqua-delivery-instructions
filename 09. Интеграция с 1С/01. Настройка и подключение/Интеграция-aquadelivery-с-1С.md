@@ -1,8 +1,18 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-aquadelivery-%D1%81-1%D0%A1
+title: "Интеграция AquaDelivery с 1С"
+area: 1c
+tags:
+  - "интеграция-с-1с"
+  - "настройка-и-подключение"
+  - "интеграция-aquadelivery-с-1с"
+source: "https://howto.aqua-delivery.com/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-aquadelivery-%D1%81-1%D0%A1"
 ---
-
 # Интеграция AquaDelivery с 1С — База знаний Aqua Delivery
+
+
+## Кратко
+
+Кратко: пошаговый порядок действий по теме «Интеграция AquaDelivery с 1С» для ролей, указанных ниже.
 
 ### **Функционал интеграции (сущности обмена)**
 

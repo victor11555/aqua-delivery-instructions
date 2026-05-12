@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/%D1%82%D1%80%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-aqua-delivery
+title: "Трекинговая система Aqua Delivery"
+area: analytics
+tags:
+  - "аналитика-и-отчёты"
+  - "трекинг"
+  - "трекинговая-система-aqua-delivery"
+source: "https://howto.aqua-delivery.com/%D1%82%D1%80%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-aqua-delivery"
 ---
-
 # Трекинговая система Aqua Delivery — База знаний Aqua Delivery
+
+## Кратко
 
 #### **Трекинговая система** **Aqua** **Delivery****.**
 
@@ -15,6 +22,9 @@ source: https://howto.aqua-delivery.com/%D1%82%D1%80%D0%B5%D0%BA%D0%B8%D0%BD%D0%
 ![](https://howto.aqua-delivery.com/wp-content/uploads/2020/02/Screenshot_1.png)
 
 #### Из каких элементов состоит трекер?
+
+
+## Пошагово
 
 1. Выбор интервала времени. Заметьте, чаще всего клиенты делают заказы не сразу, а спустя время. И важный момент, показатели выводятся только за выбранный период, то есть если в прошлом месяце с канала было 10 заказов на сумму 10000 рублей, то выбрав текущий месяц, вы эти показатели не увидите.  
    ![](https://howto.aqua-delivery.com/wp-content/uploads/2020/02/mark2-700x38.png)

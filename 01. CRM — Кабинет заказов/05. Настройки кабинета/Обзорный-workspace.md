@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-workspace
+title: "Обзорный workspace"
+area: crm
+tags:
+  - "crm-кабинет-заказов"
+  - "настройки-кабинета"
+  - "обзорный-workspace"
+source: "https://howto.aqua-delivery.com/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-workspace"
 ---
-
 # Обзорный workspace — База знаний Aqua Delivery
+
+## Кратко
 
 ![](https://howto.aqua-delivery.com/wp-content/uploads/2024/01/анализ1.png)
 

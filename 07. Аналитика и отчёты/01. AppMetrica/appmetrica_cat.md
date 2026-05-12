@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/category/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B9-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9/appmetrica
+title: "AppMetrica"
+area: analytics
+tags:
+  - "аналитика-и-отчёты"
+  - "appmetrica"
+  - "appmetrica-cat"
+source: "https://howto.aqua-delivery.com/category/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B9-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9/appmetrica"
 ---
-
 # AppMetrica — База знаний Aqua Delivery
+
+## Кратко
 
 AppMetrica
 

@@ -1,8 +1,14 @@
 ---
-source: https://howto.aqua-delivery.com/appmetrica
+title: "Appmetrica"
+area: analytics
+tags:
+  - "аналитика-и-отчёты"
+  - "appmetrica"
+source: "https://howto.aqua-delivery.com/appmetrica"
 ---
-
 # Appmetrica — База знаний Aqua Delivery
+
+## Кратко
 
 **Трекинговая система (трекер)** – это, в первую очередь, инструмент для отслеживания источников трафика приложения. Трекинговая система необходима для того, чтобы отслеживать из каких источников были переходы, установки и их количество. В системе Aqua Delivery трекер реализован через сайт Appmetrica — сервис для трекинга и аналитики мобильных приложений.
 
