@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-appmetrica
+title: "Как получить доступ к AppMetrica"
+area: analytics
+tags:
+  - "аналитика-и-отчёты"
+  - "appmetrica"
+  - "как-получить-доступ-к-appmetrica"
+source: "https://howto.aqua-delivery.com/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-appmetrica"
 ---
-
 # Как получить доступ к AppMetrica — База знаний Aqua Delivery
+
+## Кратко
 
 Понадобится почта Яндекса (именно Яндекса https://mail.yandex.ru), ее необходимо прислать в поддержку Aqua Delivery или вашему аккаунт-менеджеру.
 

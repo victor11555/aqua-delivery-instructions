@@ -1,10 +1,20 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%B2-datalens
+title: "Как получить доступ в DataLens"
+area: analytics
+tags:
+  - "аналитика-и-отчёты"
+  - "datalens"
+  - "как-получить-доступ-в-datalens"
+source: "https://howto.aqua-delivery.com/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%B2-datalens"
 ---
-
 # Как получить доступ в DataLens — База знаний Aqua Delivery
 
+## Кратко
+
 https://datalens.yandex.ru
+
+
+## Пошагово
 
 1. Понадобится почта Яндекса (именно Яндекса https://mail.yandex.ru), ее необходимо прислать в поддержку Aqua Delivery или вашему аккаунт-менеджеру.
 

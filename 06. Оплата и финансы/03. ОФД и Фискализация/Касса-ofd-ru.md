@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/category/%D0%9A%D0%B0%D1%81%D1%81%D0%B0-%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/%D0%9A%D0%B0%D1%81%D1%81%D0%B0-ofd-ru
+title: "Касса OFD.ru"
+area: payments
+tags:
+  - "оплата-и-финансы"
+  - "офд-и-фискализация"
+  - "касса-ofd-ru"
+source: "https://howto.aqua-delivery.com/category/%D0%9A%D0%B0%D1%81%D1%81%D0%B0-%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/%D0%9A%D0%B0%D1%81%D1%81%D0%B0-ofd-ru"
 ---
-
 # Касса OFD.ru — База знаний Aqua Delivery
+
+## Кратко
 
 Касса OFD.ru, Касса ОФД и онлайн-оплата
 

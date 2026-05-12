@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B9-%D1%82%D0%B0%D1%80%D0%BE%D0%B9-%D0%B2-aqua-delivery
+title: "Работа с возвратной тарой в Aqua Delivery"
+area: crm
+tags:
+  - "crm-кабинет-заказов"
+  - "товары-и-цены"
+  - "работа-с-возвратной-тарой-в-aqua-delivery"
+source: "https://howto.aqua-delivery.com/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B9-%D1%82%D0%B0%D1%80%D0%BE%D0%B9-%D0%B2-aqua-delivery"
 ---
-
 # Работа с возвратной тарой в Aqua Delivery — База знаний Aqua Delivery
+
+## Кратко
 
 В системе Aqua Delivery вы можете контролировать количество долга по возвратной таре.
 
@@ -52,6 +59,9 @@ source: https://howto.aqua-delivery.com/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1
 Если оператор вносил какие-то корректировки в возвращенной таре, то эти изменения также закрепятся в этом отчете.
 
 Так же вы можете указать долг клиента в его карточке, но мы советуем вам использовать такой способ только в крайних случаях. Для этого необходимо:  
+
+## Пошагово
+
 1. Навести курсор мышки на количество долга.
 
 ![](https://howto.aqua-delivery.com/wp-content/uploads/2024/04/Screenshot_19.png)

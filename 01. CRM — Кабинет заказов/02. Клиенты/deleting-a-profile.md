@@ -1,8 +1,15 @@
 ---
-source: https://howto.aqua-delivery.com/deleting-a-profile
+title: "Deleting a profile"
+area: crm
+tags:
+  - "crm-кабинет-заказов"
+  - "клиенты"
+  - "deleting-a-profile"
+source: "https://howto.aqua-delivery.com/deleting-a-profile"
 ---
-
 # Deleting a profile — База знаний Aqua Delivery
+
+## Кратко
 
 To delete an account in the app, you need to follow a few steps:
 
